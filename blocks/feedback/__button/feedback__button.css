@@ -1,0 +1,12 @@
+.feedback__button {
+    width: 100%;
+    min-height: 65px;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(3, 3, 5, 1);
+}
+.button:disabled {
+  cursor: not-allowed;
+  color: gray;
+  background-color: #343434;
+}
